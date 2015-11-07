@@ -1,14 +1,14 @@
 {
-    "name": "slim/slim-skeleton",
-    "description": "A Slim Framework skeleton application for rapid development",
-    "keywords": ["microframework","rest","router"],
-    "homepage": "http://github.com/codeguy/Slim-Skeleton",
+    "name": "rustyrobotmedia/skeletal-framework",
+    "description": "Skeletal Framework is a straightforward, easy-to-use framework based heavily on Slim 2",
+    "keywords": ["skeletal","framework"],
+    "homepage": "https://github.com/rustyrobotmedia",
     "license": "MIT",
     "authors": [
         {
-            "name": "Josh Lockhart",
-            "email": "info@joshlockhart.com",
-            "homepage": "http://www.joshlockhart.com/"
+            "name": "Steven Pratt",
+            "email": "steven@rustyrobotmedia.com",
+            "homepage": "http://www.rustyrobotmedia.com/"
         }
     ],
     "require": {
